@@ -1,7 +1,7 @@
 {
   "name": "create-editor-cli",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "bin": {
     "create-editor-cli": "dist/index.cjs",

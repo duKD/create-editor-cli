@@ -25469,6 +25469,7 @@ async function createProject(tempFilePath, type) {
     } else {
       console.log(error);
     }
+    process.exit(1);
   }
 }
 

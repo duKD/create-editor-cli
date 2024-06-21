@@ -43,5 +43,7 @@ export default async function createProject(
     } else {
       console.log(error);
     }
+    // 退出打包
+    process.exit(1);
   }
 }
